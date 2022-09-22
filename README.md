@@ -1,7 +1,7 @@
 ### Hi there I'm 👋
 # Genny Vasco
 
-- 🔭 I’m currently working on The NLW Movies Challenge for RockeSeat
+- 🔭 I’m currently working on The NLW Movies Challenge for RocketSeat
 - 🌱 I’m currently learning Front-end Development Concepts
 - 🤔 I’m looking for help with React classes
 - 💬 Ask me about Web Development (Html, CSS)
