@@ -1,12 +1,22 @@
 ### Hi there I'm 👋
 # Genny Vasco
 
-- 🔭 I’m currently working on The NLW Movies Challenge for RocketSeat
-- 🌱 I’m currently learning Front-end Development Concepts
-- 🤔 I’m looking for help with React classes
-- 💬 Ask me about Web Development (Html, CSS)
-- ⚡ Fun fact: ...
+🔭 I’m currently working on The NLW Movies Challenge for RocketSeat
 
+
+[Have a look](https://gnyvasco.github.io/nlw-desafio-extra/)
+
+
+📌 I’m currently learning Front-end Development Concepts
+
+
+📚 I’m looking for help with React classes
+
+
+💬 Ask me about Web Development (Html, CSS): 
+[Linkedln](https://www.linkedin.com/in/genny-vasco-0ab19721b/)
+
+---
 <div align="center" dir="auto">
 <a href="https://github.com/GnyVasco">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GnyVasco" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GnyVasco&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
