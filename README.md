@@ -15,6 +15,8 @@
 
 💬 Ask me about Web Development (Html, CSS): 
 [Linkedln](https://www.linkedin.com/in/genny-vasco-0ab19721b/)
+
+
 ---
 ### About Me 🦋
 
@@ -23,6 +25,8 @@ At the moment studying concepts about Front-end Development and UI/UX Design.
 Passionate about technology, design and various forms of art. 
 I divide my time between a lot of learning and my hobbies. 
 Greetings!!
+
+
 ---
 <div align="center" dir="auto">
 <a href="https://github.com/GnyVasco">
