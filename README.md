@@ -4,7 +4,7 @@
 🔭 I’m currently working on The NLW Movies Challenge for RocketSeat
 
 
-[Have a look](https://gnyvasco.github.io/nlw-desafio-extra/)
+[Have a look](https://github.com/GnyVasco/nlw-desafio-extra)
 
 
 📌 I’m currently learning Front-end Development Concepts
