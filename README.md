@@ -8,9 +8,7 @@ My Portfolio: [Have a look](https://africanswhodesign.io/u/genny-da-marta-pedro-
 
 ### About Me 🦋
 
-I am a Computer Engineering finalist at Eduardo Mondlane University, based in Maputo. 
-At the moment studying concepts about Front-end Development and UI/UX Design. 
-Passionate about technology, design and various forms of art. 
+I am a Computer Engineering finalist at Eduardo Mondlane University, based in Maputo. Passionate about technology, design and various forms of art. 
 I divide my time between a lot of learning and my hobbies. 
 Greetings!!
 
